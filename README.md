@@ -7,10 +7,9 @@
 
 ![4](https://github.com/user-attachments/assets/3ddf8eff-9e26-492c-bb59-f2c52b457e6b)
 
-Дополнительные коррективы пути /n
+Дополнительные коррективы пути 
 ![5](https://github.com/user-attachments/assets/bc49d971-0867-4a56-8c90-d3f5f88fd749)
 
-/n
 Проверка flutter doctor
 ![6](https://github.com/user-attachments/assets/5f77e933-2b28-4330-af3c-ed632737420d)
 
