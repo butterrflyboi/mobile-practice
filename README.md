@@ -40,7 +40,7 @@
 Экран настроек
 ![17](https://github.com/user-attachments/assets/00d303d7-7700-4b10-96c9-c8a21b825ca9)
 
-Проверка dar fix
+Проверка dart fix
 ![18](https://github.com/user-attachments/assets/3a55e213-9988-458e-883f-fc0295ca3b75)
 
 Применение dart fix
