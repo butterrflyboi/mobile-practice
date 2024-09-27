@@ -26,6 +26,7 @@
 ![12](https://github.com/user-attachments/assets/e5424b4c-35b4-405b-b24f-939fcde840c6)
 
 Создание папки с экранами приложения
+
 ![13](https://github.com/user-attachments/assets/73387dda-244c-4f2d-866c-3c1bf197ad3a)
 
 Экран калькулятора
